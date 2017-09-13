@@ -1,0 +1,12 @@
+{
+  "name": "sjmaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/server.js",
+  "scripts": {
+    "test": "test",
+    "run": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
